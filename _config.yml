@@ -21,7 +21,7 @@ repository               : "dongjinchi/dongjinchi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/image/profile-01.png"
+  avatar           : "profile-01.png"
   name             : "Jinchi Dong"
   pronouns         : "He/His"  
   bio              : "PhD candidate in Nanjing University"
