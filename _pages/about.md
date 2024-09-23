@@ -12,4 +12,4 @@ Email: dongjinchi@163.com
 
 You can find my CV [here](../assets/CV-Jinchi_Dong.pdf).
 
-You can find my job market paper [here](../assets/Job-market-paper-djc.pdf).(update data: 2024-09-22)
+You can find my job market paper [here](../assets/Job-market-paper-djc.pdf).(update data: 2024-09-23)
